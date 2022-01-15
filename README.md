@@ -1,19 +1,6 @@
 tixoncash
 TXC
 tixoncash
-跳到内容
-泰克森币
-/
-泰克森现金
-民众
-代码
-问题
-拉取请求
-行动
-项目
-维基
-安全
-洞察力
 泰克森现金/源文件/ pubkey.cpp
 @tixoncoin
 tixoncoin 源上传
@@ -159,15 +146,5 @@ bool CExtPubKey::Derive(CExtPubKey& out, unsigned int nChild) const
     出去。nChild = nChild;
     返回公钥。派生( out.pubkey , out.vchChainCode , nChild, vchChainCode);
 }
-© 2021 GitHub, Inc.
-条款
-隐私
-安全
-地位
-文档
-联系 GitHub
-价钱
-应用程序接口
-训练
-博客
-关于
+© 2022…GitHub, Inc.
+
